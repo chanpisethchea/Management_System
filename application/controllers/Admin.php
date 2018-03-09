@@ -2,12 +2,10 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-/*	
- *	@author 	: Joyonto Roy
- *	date		: 27 september, 2014
- *	FPS School Management System Pro
- *	http://codecanyon.net/user/FreePhpSoftwares
- *	support@freephpsoftwares.com
+
+/* 	
+ * 	Management system
+ *   	 		
  */
 
 class Admin extends CI_Controller
