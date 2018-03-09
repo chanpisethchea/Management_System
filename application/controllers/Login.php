@@ -4,11 +4,9 @@ if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
 /* 	
- * 	@author : Joyonto Roy
- * 	30th July, 2014
- * 	Creative Item
- * 	www.freephpsoftwares.com
- * 	http://codecanyon.net/user/joyontaroy
+ * 	Management system
+ *  Login	
+ * 	 		
  */
 
 class Login extends CI_Controller {
