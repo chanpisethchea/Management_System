@@ -2,14 +2,10 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-/*	
- *	@author 	     :    FreePhpSoftwares
- *	date		     :    25 July, 2015
- *	Item             :    FPS School Management System ios Application
- *  Specification    :    Mobile app response, JSON formatted data for iOS & android app
- *	Portfolio        :    http://codecanyon.net/user/FreePhpSoftwares
- *  Website          :    http://www.freephpsoftwares.com
- *	Support          :    http://support.freephpsoftwares.com
+
+/* 	
+ * 	Management system
+ *   	 		
  */
 
 class Mobile extends CI_Controller

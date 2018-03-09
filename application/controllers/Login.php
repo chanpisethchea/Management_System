@@ -5,8 +5,7 @@ if (!defined('BASEPATH'))
 
 /* 	
  * 	Management system
- *  Login	
- * 	 		
+ *   	 		
  */
 
 class Login extends CI_Controller {
